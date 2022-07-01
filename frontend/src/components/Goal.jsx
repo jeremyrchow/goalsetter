@@ -1,6 +1,0 @@
-function Goal() {
-  return (
-    <div>Goal</div>
-  )
-}
-export default Goal
