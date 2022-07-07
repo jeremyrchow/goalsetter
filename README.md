@@ -1,5 +1,5 @@
 # Goal setter app
-(Goal Setter Dashboard)[https://mern-todo-app-jc.herokuapp.com/]
+[Goal Setter Dashboard](https://mern-todo-app-jc.herokuapp.com/)
 
 by Jeremy Chow
 
